@@ -1,4 +1,4 @@
-# wireframr
+# wireframr Helvetica Edition
 
 Has this ever happened to you? You have a meeting where you want to show an early stage concept for a new feature, and all the discussion is about, is colors and fonts, even tough this isn't even the final design yet?
 Enter *Wireframr*! With *Wireframr* you can easily change the style of every Sketch element to simple outlines and every font to Comic Sans MS. Nobody will think this is the final design.
