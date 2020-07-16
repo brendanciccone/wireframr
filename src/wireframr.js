@@ -42,8 +42,8 @@ function wireframeSelection(selection) {
         element.style.syncWithSharedStyle(wrfrmrSharedStyle);
       }
     } else if (element.type === "Text") {
-      element.style.fontFamily = "Comic Sans MS";
-      if (element.style.fontFamily !== "Comic Sans MS") {
+      element.style.fontFamily = "Helvetica";
+      if (element.style.fontFamily !== "Helvetica") {
         element.style.fontSize = element.style.fontSize - 2;
       }
       element.style.textColor = "#333333";
